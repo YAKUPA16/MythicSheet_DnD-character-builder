@@ -1,4 +1,4 @@
-# MythicSheet – D&D 5e Character Builder
+# MythicSheet – D&D 5E Character Builder
 
 MythicSheet is a lightweight **React-based Dungeons & Dragons 5e character builder** that automates many of the manual steps in traditional character creation.  
 It’s designed for quick, intuitive use — perfect for both new players learning the rules and experienced players who want to skip the math.
